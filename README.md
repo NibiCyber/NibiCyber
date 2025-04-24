@@ -38,7 +38,7 @@ Rigueur • Communication claire • Travail en équipe • Réactivité en situ
 - 🔐 **[Honeypot Hybride](https://github.com/NibiCyber/portfolio-NibiCyber/tree/main/projets_personnel_honeypot)**  
   Un faux site web piégé, des attaques capturées, un tableau de bord de monitoring complet.
 
-- 📚 **[10 Projets de formation SOC](https://github.com/NibiCyber/portfolio-NibiCyber/tree/main/parcours_formation)**  
+- 📚 **[10 Projets de formation SOC](https://github.com/NibiCyber/portfolio-NibiCyber/tree/main/projets_formation)**  
   De l’analyse de logs à la gestion de crise, en passant par la création de règles Snort et l’automatisation des alertes.
 
 - 🖼️ **[Mon Portfolio PowerPoint (PDF)](https://github.com/NibiCyber/portfolio-NibiCyber/blob/main/Marzouk_Anissa_Portfolio_1_01042025.pptx)**  
